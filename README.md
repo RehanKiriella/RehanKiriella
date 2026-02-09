@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**RehanKiriella/RehanKiriella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rehan, a software engineer and a web developer from Sri Lanka. I like building web systems with useful features and sleek designs
 
-Here are some ideas to get you started:
+🔭 These days I'm focused on:
+- building AI Agents
+- building mini projects to elevate my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For my final year University Project, I built an Employee Monitoring and Analysis System (EMAS), which helps employers look at their employees daily
+work. This includes features such as:
+- screenshots of the employee screen in a selected time period
+- app and website monitoring
+- task tracking
+- login and logout time (attendance) monitoring.
+
+Till now, this project has been one of my most advanced projects. 
+
+You may find my portfolio at https://rehankiriella.vercel.app/
+
